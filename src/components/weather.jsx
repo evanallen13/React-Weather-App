@@ -61,7 +61,7 @@ function changeBackground(rangeId){
             document.body.style.backgroundImage = "url(../imgs/cloudy.jpg";
           break;
         default:
-            document.body.style.backgroundColor = "#20B2AA";
+            document.body.style.backgroundImage = "url(../imgs/default.jpg";
       }
 }
 function tempCalc (temp,form) {
