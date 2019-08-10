@@ -1,0 +1,12 @@
+form{
+    margin-top: 3rem;
+    margin-bottom: 10px;
+}
+form input[name='city'],
+form input[name='country']{
+    color: white;
+    border: 0;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+    color: black;
+}
