@@ -37,7 +37,6 @@ function minMaxTemp(min,max){
     )
 }
 function changeBackground(rangeId){
-    console.log(rangeId)
     switch(true){
         case rangeId >= 200 && rangeId < 232:
             document.body.style.backgroundImage = "url(../imgs/thunder.gif)";
